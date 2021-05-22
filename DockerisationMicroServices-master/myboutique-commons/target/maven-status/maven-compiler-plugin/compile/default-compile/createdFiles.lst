@@ -1,0 +1,11 @@
+com\targa\labs\myboutique\commons\dto\CartDto.class
+com\targa\labs\myboutique\commons\dto\PaymentDto.class
+com\targa\labs\myboutique\commons\utils\Web.class
+com\targa\labs\myboutique\commons\dto\CategoryDto.class
+com\targa\labs\myboutique\commons\dto\ReviewDto.class
+com\targa\labs\myboutique\commons\dto\AddressDto.class
+com\targa\labs\myboutique\commons\dto\OrderItemDto.class
+com\targa\labs\myboutique\commons\dto\CustomerDto.class
+com\targa\labs\myboutique\commons\dto\OrderDto.class
+com\targa\labs\myboutique\commons\dto\ProductDto.class
+com\targa\labs\myboutique\commons\domain\AbstractEntity.class
