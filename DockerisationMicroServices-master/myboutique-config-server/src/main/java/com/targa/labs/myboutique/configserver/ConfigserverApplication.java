@@ -7,7 +7,7 @@ import org.springframework.cloud.config.server.EnableConfigServer;
 @EnableConfigServer
 @SpringBootApplication
 public class ConfigserverApplication {
-//testt push for jenkins
+//test push for jenkins
     public static void main(String[] args) {
         SpringApplication.run(ConfigserverApplication.class, args);
     }
